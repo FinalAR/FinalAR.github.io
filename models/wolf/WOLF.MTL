@@ -7,7 +7,7 @@ newmtl wolf_body
   Kd 0 0 0
   Ks 0 0 0
   illum 2
-  map_Kd wolf.TIF
+  map_Kd WOLF.TIF
 
 newmtl wolf_rIris
   Ka 0 0 0
